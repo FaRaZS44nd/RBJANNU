@@ -89,13 +89,13 @@ print  """
 \033[1;97m║╔╗╔╝║╔═╗║     ╔╝╚╗ ╔╗╚╗║    ║╚═╝║║╔═╗║║║║║║║║╚═╝║ ║║║║
 \033[1;93m║║║╚╗║╚═╝║    ╔╝╔╗╚╗║╚═╝║    ║╔═╗║║║ ║║║║║║║║║╔═╗║╔╝╚╝║
 \033[1;93m╚╝╚═╝╚═══╝    ╚═╝╚═╝╚═══╝    ╚╝ ╚╝╚╝ ╚╝╚╝╚╝╚╝╚╝ ╚╝╚═══╝
-\033[0;98m❖++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++❖ """
-jalan('\033[0;92m| |   \033[0;33mWE ARE ANONYMUS.THIS TOOL IS ONLY               | |')
-jalan('\033[0;92m| |    \033[0;33mFOR EDUCATION PURPOSE.I AM NOT                 | |')
-jalan('\033[0;92m| |   \033[0;33mRESPONSIBLE FOR ANY ILLEGAL ACTIVITY.           | |')
-jalan('\033[0;92m| |     \033[0;33mACTIVITY. THIS TOOL AND CHANNEL               | |')
-jalan('\033[0;92m| |   \033[0;33mDOES NOT PROMOTE ANY ILLEGAL ACTIVITY.          | |')
-print """ \033[0;98m❖++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++❖ """
+\033[0;98m❖++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++❖ """
+jalan('\033[0;92m| |   \033[0;33mWE ARE ANONYMUS.THIS TOOL IS ONLY     \033[0;92m| |')
+jalan('\033[0;92m| |    \033[0;33mFOR EDUCATION PURPOSE.I AM NOT       \033[0;92m| |')
+jalan('\033[0;92m| |   \033[0;33mRESPONSIBLE FOR ANY ILLEGAL ACTIVITY. \033[0;92m| |')
+jalan('\033[0;92m| |     \033[0;33mACTIVITY. THIS TOOL AND CHANNEL     \033[0;92m| |')
+jalan('\033[0;92m| |   \033[0;33mDOES NOT PROMOTE ANY ILLEGAL ACTIVITY.\033[0;92m| |')
+print """ \033[0;98m❖++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++❖ """
 
 CorrectUsername = "RB"
 CorrectPassword = "AHMAD"
