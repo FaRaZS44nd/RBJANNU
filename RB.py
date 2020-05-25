@@ -455,7 +455,7 @@ def brute():
         print '\033[1;36;40m 🙨🙮❖▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅❖🙬🙨'
         try:
             email = raw_input('\x1b[1;91m[+] \x1b[1;92mID\x1b[1;97m/\x1b[1;92mEmail \x1b[1;97mTarget \x1b[1;91m:\x1b[1;97m ')
-            passw = raw_input('\x1b[1;91m[+] \x1b[1;92mWordlist \x1b[1;97mext(list.txt) \x1b[1;91m: \x1b[1;97m')
+            passw = raw_input('\x1b[1;91m[+] \x1b[1;92mWordlist \x1b[1;97mText(filename.txt) \x1b[1;91m: \x1b[1;97m')
             total = open(passw, 'r')
             total = total.readlines()
             print '\033[1;31;40m\033[1;36;40m 🙨🙮❖▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅❖🙬🙨'
