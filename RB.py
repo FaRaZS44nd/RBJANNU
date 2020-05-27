@@ -456,9 +456,9 @@ def brute():
         print logo
 	print """ \033[0;95m❖++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++❖ """
 	print """ \033[0;95m🙨🙮❖▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅❖🙬🙨 """
-	print """ \033[0;101m❖+++++++++ENTER (pakistan.txt) FOR PAKISTAN ACCOUNTS+++++++++❖ """
-	print """ \033[0;101m❖+++++++++ENTER (india.txt) FOR INDIAN ACCOUNTS+++++++++❖ """
-	print """ \033[0;101m❖+++++++++ENTER (RB.txt) FOR Mixed PASSWORDS(1M)+++++++++❖ """
+	print """ \033[0;101m❖+++++++++ENTER (pakistan.txt) FOR PAKISTAN ACCOUNTS+++++++++❖\n """
+	print """ \033[0;101m❖+++++++++ENTER (india.txt) FOR INDIAN ACCOUNTS+++++++++❖\n """
+	print """ \033[0;101m❖+++++++++ENTER (RB.txt) FOR Mixed PASSWORDS(1M)+++++++++❖\n """
 	print """ \033[0;95m🙨🙮❖▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅❖🙬🙨 """
 	print """ \033[0;95m❖++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++❖ """
 	
