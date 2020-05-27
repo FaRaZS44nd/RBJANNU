@@ -109,7 +109,7 @@ while (loop == 'true'):
             print "Logged in successfully as " + username
             loop = 'false'
         else:
-            print "yang bener dong"
+            print "WRONG PASSWORD / USERNAME !"
             os.system('xdg-open https://www.youtube.com/channel/UCEQQSFDT0J6NtA8PmnIDqyw')
     else:
         print "salah sayang!"
