@@ -111,11 +111,11 @@ while (loop == 'true'):
             print "Logged in successfully as " + username
             loop = 'false'
         else:
-            print "WRONG PASSWORD !"
+            print "WRONG PASSWORD USERNAME !"
             os.system('xdg-open https://www.youtube.com/channel/UCEQQSFDT0J6NtA8PmnIDqyw')
     else:
-         print "WRONG USERNAME !"
-        os.system('xdg-open https://www.youtube.com/channel/UCEQQSFDT0J6NtA8PmnIDqyw')
+            print "WRONG PASSWORD / USERNAME !"
+            os.system('xdg-open https://www.youtube.com/channel/UCEQQSFDT0J6NtA8PmnIDqyw')
 
 def login():
 	os.system('clear')
