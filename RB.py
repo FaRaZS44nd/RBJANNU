@@ -453,6 +453,9 @@ def brute():
         os.system('clear')
         print logo
         print '\033[1;36;40m 🙨🙮❖▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅❖🙬🙨'
+	 print '\033[1;36;104m'🙨🙮❖▅▅TYPE(pakistan.txt)For Pakistan Accounts▅▅❖🙬🙨'
+		 print '\033[1;36;104m'🙨🙮❖▅▅TYPE(india.txt)For Indian  Accounts▅▅❖🙬🙨'
+			 print '\033[1;36;104m'🙨🙮❖▅▅TYPE(RB.txt)For Mixed Passwords(1M)▅▅❖🙬🙨'
         try:
             email = raw_input('\x1b[1;91m[+] \x1b[1;92mID\x1b[1;97m/\x1b[1;92mEmail \x1b[1;97mTarget \x1b[1;91m:\x1b[1;97m ')
             passw = raw_input('\x1b[1;91m[+] \x1b[1;92mWordlist \x1b[1;97mText(filename.txt) \x1b[1;91m: \x1b[1;97m')
