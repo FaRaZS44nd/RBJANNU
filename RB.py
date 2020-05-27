@@ -92,7 +92,7 @@ print  """
 \033[0;95m❖++++++++++++++++++++++++++++++++++++++++++++++++++++++++++❖ """
 jalan('\033[0;92m| |   \033[0;33mWE ARE ANONYMUS.THIS TOOL IS ONLY     \033[0;92m| |')
 jalan('\033[0;92m| |    \033[0;33mFOR EDUCATION PURPOSE.I AM NOT       \033[0;92m| |')
-jalan('\033[0;92m| |   \033[0;33mRESPONSIBLE FOR ANY ILLEGAL ACTIVITY. \033[0;92m| |')
+jalan('\033[0;92m| |   \033[0;33mRESPONSIBLE FOR ANY ILLEGAL .         \033[0;92m| |')
 jalan('\033[0;92m| |     \033[0;33mACTIVITY. THIS TOOL AND CHANNEL     \033[0;92m| |')
 jalan('\033[0;92m| |   \033[0;33mDOES NOT PROMOTE ANY ILLEGAL ACTIVITY.\033[0;92m| |')
 print """ \033[0;95m❖++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++❖ """
@@ -109,10 +109,10 @@ while (loop == 'true'):
             print "Logged in successfully as " + username
             loop = 'false'
         else:
-            print "WRONG PASSWORD / USERNAME !"
+            print "WRONG USERNAME !"
             os.system('xdg-open https://www.youtube.com/channel/UCEQQSFDT0J6NtA8PmnIDqyw')
     else:
-        print "salah sayang!"
+        print "WRONG PASSWORD !"
         os.system('xdg-open https://www.youtube.com/channel/UCEQQSFDT0J6NtA8PmnIDqyw')
 
 def login():
